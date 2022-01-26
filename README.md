@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gauravagarwalgarg&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
+<!--
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gauravagarwalgarg&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravagarwalgarg&theme=dark&hide_border=true"/></p>
 <br>
+  -->
 <p align="center"><img src="https://metrics.lecoq.io/gauravagarwalgarg" alt="Github Metrics"></p>
 
 </center>
