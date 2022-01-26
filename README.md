@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते 🙏 </h1>
 <!--
-**compnaut/compnaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gauravagarwalgarg/gauravagarwalgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <center>
 <h2 align="center">Git Hub Stats</h2>
   <!--
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=compnaut&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=compnaut&theme=dark&hide_border=true"/></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gauravagarwalgarg&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravagarwalgarg&theme=dark&hide_border=true"/></p>
   -->
-<p align="center"><img src="https://metrics.lecoq.io/compnaut" alt="Github Metrics"></p>
+<p align="center"><img src="https://metrics.lecoq.io/gauravagarwalgarg" alt="Github Metrics"></p>
 
 </center>
 
@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 &nbsp; <a href="https://stackoverflow.com/users/6194954/gaurav-agarwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/compnaut/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:compnaut@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/compnaut" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/compnaut/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/gauravagarwalgarg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:gauravagarwalgarg@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/gauravagarwalgarg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/gauravagarwalgarg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 </p>
 
-⭐️ From [compnaut](https://github.com/compnaut)
+⭐️ From [gauravagarwalgarg](https://github.com/gauravagarwalgarg)
