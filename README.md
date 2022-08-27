@@ -1,8 +1,4 @@
 <h1 align="center"> नमस्ते 🙏 </h1>
-<!--
-**gauravagarwalgarg/gauravagarwalgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -24,14 +20,12 @@ Here are some ideas to get you started:
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gauravagarwalgarg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=gauravagarwalgarg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Gaurav Agarwal Garg's github stats](https://github-readme-stats.vercel.app/api?username=gauravagarwalgarg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <p align="center"><img src="https://metrics.lecoq.io/gauravagarwalgarg" alt="Github Metrics"></p>
 
 </center>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://stackoverflow.com/users/6194954/gaurav-agarwal-garg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" width="50" /></a>
