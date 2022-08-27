@@ -21,7 +21,7 @@
 <center>
 <h2 align="center">Git Hub Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gauravagarwalgarg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515") alt="Github Stats"></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gauravagarwalgarg&theme=onedark") alt="Github Profile Trophy"></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=gauravagarwalgarg&theme=onedark") alt="Github Profile Trophy"></p>
 <p align="center"><img src="https://metrics.lecoq.io/gauravagarwalgarg" alt="Github Metrics"></p>
 </center>
 
