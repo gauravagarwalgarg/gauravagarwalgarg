@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp; | C++ | Bash | Matlab & Simulink | Java | ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp; |
+- 💻 &nbsp; Python | [C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp; | C++ | Bash | Matlab & Simulink | Java | [LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp; |
 - 🌐 &nbsp; Software Design & Architecture | Agile Methologies | Product Life-cycle Management | Model Based Development |
 - 🛢 &nbsp; MySQL | GraphDB | RTOS |
 - 🖥 &nbsp; Office Toolsuite | Atlassian Toolsuite | Jenkins | Docker | Gitlab | Doxygen |
