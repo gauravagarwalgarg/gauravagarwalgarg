@@ -15,9 +15,9 @@
 ```yaml
 name: Gaurav Agarwal
 role: Software Engineer
-domain: Devices to Cloud
+domain: From Devices to Cloud, anything in between
+spectrum: Cloud-native services Application → Hosted System software → Kernel drivers → BSP bring-up
 philosophy: "Truth can only be found in one place: the code."
-spectrum: Cloud-native services → System software → Kernel drivers → BSP bring-up
 ```
 
 - 💼 &nbsp; Building **safety-critical avionics software** where a segfault isn't a bug, it's a liability
