@@ -35,7 +35,7 @@ philosophy: "Truth can only be found in one place: the code."
 
 | Project | Description | Docs |
 |---------|-------------|------|
-| **[Tech Interviewee Handbook](https://github.com/GauravAgarwalGarg/tech-interview-os)** | 250+ questions: DSA, LLD, HLD, CI/CD, Architecture  with rubrics for SDE 1→4 | [📖 Docs](https://https://gauravagarwalgarg.github.io/tech-interview-os/) |
+| **[Tech Interviewee Handbook](https://github.com/GauravAgarwalGarg/tech-interview-os)** | 250+ questions: DSA, LLD, HLD, CI/CD, Architecture  with rubrics for SDE 1→4 | [📖 Docs](https://gauravagarwalgarg.github.io/tech-interview-os/) |
 | **[Playground](https://github.com/GauravAgarwalGarg/Playground)** | Coding Interview Patterns  101 problems in C++, Python, Go | [📖 Docs](https://gauravagarwalgarg.github.io/playground/) |
 
 ### 💻 Language Playgrounds
