@@ -35,8 +35,8 @@ philosophy: "Truth can only be found in one place: the code."
 
 | Project | Description | Docs |
 |---------|-------------|------|
-| **[Interview Handbook](https://github.com/GauravAgarwalGarg/interview)** | 250+ questions: DSA, LLD, HLD, CI/CD, Architecture  with rubrics for SDE 1→4 | [📖 Docs](https://gauravagarwalgarg.github.io/interview/) |
 | **[Playground](https://github.com/GauravAgarwalGarg/Playground)** | Coding Interview Patterns  101 problems in C++, Python, Go | [📖 Docs](https://gauravagarwalgarg.github.io/Playground/) |
+| **[Tech Interviewee Handbook](https://github.com/GauravAgarwalGarg/tech-interview-os)** | 250+ questions: DSA, LLD, HLD, CI/CD, Architecture  with rubrics for SDE 1→4 | [📖 Docs](https://https://gauravagarwalgarg.github.io/tech-interview-os/) |
 
 ### 💻 Language Playgrounds
 
@@ -45,13 +45,13 @@ philosophy: "Truth can only be found in one place: the code."
 | **[Modern C++ Playground](https://github.com/GauravAgarwalGarg/modern-cpp-playground)** | Move semantics, RAII, lock-free, HFT, CRTP, custom allocators  63 compilable files | [📖 Docs](https://gauravagarwalgarg.github.io/modern-cpp-playground/) |
 | **[Giggle With Python](https://github.com/GauravAgarwalGarg/giggle-with-python)** | Python end-to-end: fundamentals, data analytics, frameworks, automation, testing | [📖 Docs](https://gauravagarwalgarg.github.io/giggle-with-python/) |
 | **[Grin With Golang](https://github.com/GauravAgarwalGarg/grin-with-golang)** | The Ultimate Go Playbook: concurrency, GMP scheduler, system design  62 source files | [📖 Docs](https://gauravagarwalgarg.github.io/grin-with-golang/) |
-| **[PrototypeSTL](https://github.com/GauravAgarwalGarg/PrototypeSTL)** | High-performance, embedded-friendly C++ standard library alternative | [📖 Docs](https://gauravagarwalgarg.github.io/PrototypeSTL/) |
+| **[PrototypeSTL](https://github.com/GauravAgarwalGarg/prototype-stl)** | High-performance, embedded-friendly C++ standard library alternative | [📖 Docs](https://gauravagarwalgarg.github.io/prototype-stl/) |
 
 ### ⚙️ Systems & Protocols
 
 | Project | Description | Docs |
 |---------|-------------|------|
-| **[Protocols](https://github.com/GauravAgarwalGarg/Protocols)** | Low-latency networking, aerospace (ARINC 429/664), embedded (UART/SPI/CAN), satellite (CCSDS) | [📖 Docs](https://gauravagarwalgarg.github.io/Protocols/) |
+| **[Protocols](https://github.com/GauravAgarwalGarg/protocols)** | Low-latency networking, aerospace (ARINC 429/664), embedded (UART/SPI/CAN), satellite (CCSDS) | [📖 Docs](https://gauravagarwalgarg.github.io/protocols/) |
 | **[Yocto Playground](https://github.com/GauravAgarwalGarg/yocto-playground)** | Embedded Linux build system  recipes, layers, QEMU, BSP | [📖 Docs](https://gauravagarwalgarg.github.io/yocto-playground/) |
 | **[Linux Scripts](https://github.com/GauravAgarwalGarg/linux-scripts)** | Shell scripts for sysadmin, monitoring, automation, containers | [📖 Docs](https://gauravagarwalgarg.github.io/linux-scripts/) |
 
@@ -60,14 +60,14 @@ philosophy: "Truth can only be found in one place: the code."
 | Project | Description | Docs |
 |---------|-------------|------|
 | **[void-filter](https://github.com/GauravAgarwalGarg/void-filter)** | Enterprise git hooks framework  format, lint, secrets scan, AI-fix for all languages | [📖 Docs](https://gauravagarwalgarg.github.io/void-filter/) |
-| **[dotvim](https://github.com/GauravAgarwalGarg/dotvim)** | IDE-grade Vim config  LSP, fuzzy find, git, 30+ plugins, Google style | [GitHub](https://github.com/GauravAgarwalGarg/dotvim) |
+| **[dotvim](https://github.com/GauravAgarwalGarg/dotvim)** | IDE-grade Vim config  LSP, fuzzy find, git, 30+ plugins, Google style | [📖 Docs](https://gauravagarwalgarg.github.io/dotvim/) | 
 
 ### 🎓 Learning & Reference
 
 | Project | Description | Docs |
 |---------|-------------|------|
 | **[SW Course Hub](https://github.com/GauravAgarwalGarg/sw-course-hub)** | 500+ free CS courses from MIT, Stanford, CMU, NPTEL  organized by career stage | [📖 Docs](https://gauravagarwalgarg.github.io/sw-course-hub/) |
-| **[Autonomy Loops](https://github.com/GauravAgarwalGarg/autonomy-loops)** | Self-driving, robotics, perception, planning  learning journal | [📖 Docs](https://gauravagarwalgarg.github.io/autonomy-loops/) |
+| **[Autonomy Loops](https://github.com/GauravAgarwalGarg/autonomy-loops)** | Loop Engineering Library | [📖 Docs](https://gauravagarwalgarg.github.io/autonomy-loops/) |
 
 ### 🚀 Applications
 
