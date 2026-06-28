@@ -77,10 +77,11 @@ philosophy: "Truth can only be found in one place: the code."
 | **[Vows Profile](https://github.com/GauravAgarwalGarg/vows-profile)** | Personal biodata page | [🌐 Live](https://gauravagarwalgarg.github.io/vows-profile/) |
 
 ---
-
 ## 🛠 Tech Stack
 
-### 💻 Languages & Scripting
+<details>
+<summary><b>💻 Languages & Scripting</b></summary>
+<br>
 
 > *Use-case dictates the language. Mastery dictates the elegance.*
 
@@ -97,8 +98,11 @@ philosophy: "Truth can only be found in one place: the code."
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</details>
 
-### ☁️ Cloud & Infrastructure
+<details>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br>
 
 > *Infrastructure as code or it doesn't exist. If it can't self-heal, it's not production.*
 
@@ -113,8 +117,11 @@ philosophy: "Truth can only be found in one place: the code."
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+</details>
 
-### 🗄️ Databases & Storage
+<details>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br>
 
 > *Normalize until it hurts. Denormalize until it works.*
 
@@ -124,8 +131,11 @@ philosophy: "Truth can only be found in one place: the code."
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+</details>
 
-### 🚀 DevOps & CI/CD
+<details>
+<summary><b>🚀 DevOps & CI/CD</b></summary>
+<br>
 
 > *Merge to main. Pipeline goes green. Ship it. Repeat.*
 
@@ -140,8 +150,11 @@ philosophy: "Truth can only be found in one place: the code."
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB?style=for-the-badge&logo=conan&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+</details>
 
-### 🖥️ Operating Systems
+<details>
+<summary><b>🖥️ Operating Systems</b></summary>
+<br>
 
 > *Kernel panics are just the OS asking for attention.*
 
@@ -152,8 +165,11 @@ philosophy: "Truth can only be found in one place: the code."
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</details>
 
-### 🔌 Embedded Systems & Hardware Platforms
+<details>
+<summary><b>🔌 Embedded Systems & Hardware Platforms</b></summary>
+<br>
 
 > *If it has a JTAG port, I've probably debugged it at 3 AM.*
 
@@ -172,26 +188,22 @@ philosophy: "Truth can only be found in one place: the code."
 ![Device Tree](https://img.shields.io/badge/Device%20Tree-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![U-Boot](https://img.shields.io/badge/U--Boot-000080?style=for-the-badge&logo=linux&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![OpenOCD](https://img.shields.io/badge/OpenOCD-2E8B57?style=for-the-badge&logo=gnu&logoColor=white)
+</details>
 
-### 🧰 Tools & IDEs
+<details>
+<summary><b>🧰 Tools & IDEs</b></summary>
+<br>
 
 > *The right tool for the right job. Vim for speed. IDE for sanity.*
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-352A71?style=for-the-badge&logo=gnu&logoColor=white)
+![Vim](https://shields.io)
+</details>
 
-### 📋 Project Management & Collaboration
+<details>
+<summary><b>📋 Project Management & Collaboration</b></summary>
+<br>
 
 > *Ship features, not meetings. Track work where the code lives.*
 
@@ -199,7 +211,7 @@ philosophy: "Truth can only be found in one place: the code."
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![GitLab Boards](https://img.shields.io/badge/GitLab%20Boards-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038)
+</details>
 
 ---
 
