@@ -35,8 +35,8 @@ philosophy: "Truth can only be found in one place: the code."
 
 | Project | Description | Docs |
 |---------|-------------|------|
-| **[Playground](https://github.com/GauravAgarwalGarg/Playground)** | Coding Interview Patterns  101 problems in C++, Python, Go | [📖 Docs](https://gauravagarwalgarg.github.io/Playground/) |
 | **[Tech Interviewee Handbook](https://github.com/GauravAgarwalGarg/tech-interview-os)** | 250+ questions: DSA, LLD, HLD, CI/CD, Architecture  with rubrics for SDE 1→4 | [📖 Docs](https://https://gauravagarwalgarg.github.io/tech-interview-os/) |
+| **[Playground](https://github.com/GauravAgarwalGarg/Playground)** | Coding Interview Patterns  101 problems in C++, Python, Go | [📖 Docs](https://gauravagarwalgarg.github.io/playground/) |
 
 ### 💻 Language Playgrounds
 
@@ -73,7 +73,7 @@ philosophy: "Truth can only be found in one place: the code."
 
 | Project | Description | Docs |
 |---------|-------------|------|
-| **[AngelOne Dashboard](https://github.com/GauravAgarwalGarg/AngelOneDashboard)** | Stock trading dashboard  FastAPI backend + React frontend | [📖 Docs](https://github.com/GauravAgarwalGarg/AngelOneDashboard) |
+| **[AngelOne Dashboard](https://github.com/GauravAgarwalGarg/angel-one-dashboard)** | Stock trading dashboard  FastAPI backend + React frontend | [📖 Docs](https://github.com/GauravAgarwalGarg/angel-one-dashboard) |
 | **[Vows Profile](https://github.com/GauravAgarwalGarg/vows-profile)** | Personal biodata page | [🌐 Live](https://gauravagarwalgarg.github.io/vows-profile/) |
 
 ---
